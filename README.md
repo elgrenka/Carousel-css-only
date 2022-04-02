@@ -1,1 +1,1 @@
-Carousel with css only
+Carousel with css only on branch carousel-css-only
